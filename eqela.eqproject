@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# anotherapp1016
+#
+
+projectname: anotherapp1016
+vendorid: com.mycompany
+mainmodule: com.mycompany.anotherapp1016
